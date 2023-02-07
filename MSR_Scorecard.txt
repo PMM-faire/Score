@@ -38,13 +38,13 @@
   ],
   "indicators": [
     {
-      "achieved": "43",
-      "dhisID": "CYBvorjaF3c",
-      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT",
+      "achieved": "70",
+      "dhisID": "vseXEsxYqEN",
+      "dhisName": "CSB MSR Taux de couverture en CPN1",
       "formula": " ",
       "groupCode": "G1",
-      "name": "Total",
-      "notInTrack": "30",
+      "name": "CSB CPN1",
+      "notInTrack": "50",
       "target": "100",
       "type": "indicator"
     },
