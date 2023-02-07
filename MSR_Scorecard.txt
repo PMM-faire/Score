@@ -2,13 +2,13 @@
   "indicatorGroup": [
     {
       "code": "G1",
-      "name": "CPN 1",
+      "name": "CPN",
       "titre": "Taux de CPN au niveau FS"
     },
     {
       "code": "G2",
-      "name": "Référénce CSB",
-      "titre": "Proportion de cas paludisme grave référé (%)"
+      "name": "Accouchement",
+      "titre": "Taux d'accouchement au niveau FS"
     },
     {
       "code": "G3",
@@ -49,25 +49,25 @@
       "type": "indicator"
     },
     {
-      "achieved": "30",
-      "dhisID": "HpKTyXNeVWW",
-      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT (chez les < 5 ans)",
+      "achieved": "50",
+      "dhisID": "TuU9jZHMAXr",
+      "dhisName": "CSB MSR Taux de couverture en CPN4 et Plus",
       "formula": "",
       "groupCode": "G1",
-      "name": "<5 ans",
-      "notInTrack": "39",
-      "target": "0",
+      "name": "CSB CPN4+",
+      "notInTrack": "35",
+      "target": "100",
       "type": "indicator"
     },
     {
-      "achieved": "30",
-      "dhisID": "fdIdtHWGrOe",
-      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT  (6-13 ans)",
+      "achieved": "43",
+      "dhisID": "rZ284PLILin",
+      "dhisName": "CSB MSR Taux d'accouchement Total FS",
       "formula": "",
-      "groupCode": "G1",
-      "name": "6-13 ans",
-      "notInTrack": "39",
-      "target": "0",
+      "groupCode": "G2",
+      "name": "CSB accouchement ",
+      "notInTrack": "30",
+      "target": "100",
       "type": "indicator"
     },
     {
