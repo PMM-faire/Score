@@ -2,8 +2,8 @@
   "indicatorGroup": [
     {
       "code": "G1",
-      "name": "CPN",
-      "titre": "Taux de cas téstés positifs par RDT (%)"
+      "name": "CPN 1",
+      "titre": "Taux de CPN au niveau FS"
     },
     {
       "code": "G2",
