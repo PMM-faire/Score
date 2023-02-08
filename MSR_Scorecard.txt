@@ -9,6 +9,16 @@
       "code": "G2",
       "name": "Accouchement",
       "titre": "Taux d'accouchement au niveau FS"
+    },
+    {
+      "code": "G4",
+      "name": "Décès",
+      "titre": "Décès maternel et néonatal au niveau FS"
+    },
+    {
+      "code": "G5",
+      "name": "Intrants",
+      "titre": "Taux disponibilité des Intrants de santé au niveau FS"
     }
   ],
   "indicators": [
@@ -23,6 +33,17 @@
       "target": "100",
       "type": "indicator"
     },
+	{
+      "achieved": "70",
+      "dhisID": "TAtqlBAAMQX",
+      "dhisName": "CHRD Proportion Femmes enceintes vues en 1ère CPN",
+      "formula": " ",
+      "groupCode": "G1",
+      "name": "CHRD CPN1",
+      "notInTrack": "50",
+      "target": "100",
+      "type": "indicator"
+	},
     {
       "achieved": "50",
       "dhisID": "TuU9jZHMAXr",
@@ -30,6 +51,17 @@
       "formula": "",
       "groupCode": "G1",
       "name": "CSB CPN4+",
+      "notInTrack": "35",
+      "target": "100",
+      "type": "indicator"
+    },
+	{
+      "achieved": "50",
+      "dhisID": "SBgRM6P8WE8",
+      "dhisName": "CHRD Proportion Femmes enceintes ayant effectué 4 CPN et plus",
+      "formula": "",
+      "groupCode": "G1",
+      "name": "CHRD CPN4+",
       "notInTrack": "35",
       "target": "100",
       "type": "indicator"
@@ -42,6 +74,116 @@
       "groupCode": "G2",
       "name": "CSB accouchement ",
       "notInTrack": "30",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "43",
+      "dhisID": "VPkbQLAolwg",
+      "dhisName": "CHRD Taux d’utilisation des accouchements à la Maternité",
+      "formula": "",
+      "groupCode": "G2",
+      "name": "CHRD accouchement",
+      "notInTrack": "30",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "0",
+      "dhisID": "zdVeI0RoIOj",
+      "dhisName": "CSB MSR Proportion de décès maternel",
+      "formula": "",
+      "groupCode": "G4",
+      "name": "CSB décès maternel",
+      "notInTrack": "0",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "",
+      "dhisID": "nDkpPgtPi2v",
+      "dhisName": "CHRD Proportion des décès maternels",
+      "formula": "",
+      "groupCode": "G4",
+      "name": "CHRD décès maternel",
+      "notInTrack": "0",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "",
+      "dhisID": "FJ1BRlLGlj8",
+      "dhisName": "CSB MSR Proportion de décès néonatal (0-28j)",
+      "formula": "",
+      "groupCode": "G4",
+      "name": "CSB décès néonatal",
+      "notInTrack": "0",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "0",
+      "dhisID": "t3IQ7q7xYwK",
+      "dhisName": "CHRD Proportion des décès néonataux 0-28 j",
+      "formula": "",
+      "groupCode": "G4",
+      "name": "CHRD décès néonatal",
+      "notInTrack": "0",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "IU2c0DA5SI0",
+      "dhisName": "CSB Intrant Gratuit MSR Taux de Disponibilite Oxytocine injectable",
+      "formula": "",
+      "groupCode": "G5",
+      "name": "CSB  Oxytocine",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "BC3uVoGxh1z",
+      "dhisName": "CHRD Taux de disponibilite en Oxytocine",
+      "formula": "",
+      "groupCode": "G5",
+      "name": "CHRD  Oxytocine",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "zseDQ6A8Q6m",
+      "dhisName": "CSB Intrant Gratuit MSR Taux de Disponibilite en Chlorhexidine",
+      "formula": "",
+      "groupCode": "G5",
+      "name": "CSB Chlorhexidine",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "k59fHhSwSwl",
+      "dhisName": "COM Taux de disponibilité en Chlorhexidine",
+      "formula": "",
+      "groupCode": "G5",
+      "name": "COM Chlorhexidine",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "o18JraLOxf9",
+      "dhisName": "CHRD Taux de disponibilité de Chlorhexidine 7% Gel",
+      "formula": "",
+      "groupCode": "G5",
+      "name": "CHRD Chlorhexidine",
+      "notInTrack": "65",
       "target": "100",
       "type": "indicator"
     }
